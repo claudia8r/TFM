@@ -43,7 +43,7 @@ Este notebook contiene el sistema final desarrollado, integrando todas las fases
 - Uso del modelo LLaMA 3.1 para recomendar una receta y organizar la lista de ingredientes.
   
 
-## 2. comparativa_llm.ipynb
+## 2. comparadorLLM.ipynb
 
 Este notebook está dedicado a la comparación de distintos modelos de lenguaje locales (LLM) con el fin de seleccionar el más adecuado para el sistema final.
 
