@@ -5,7 +5,9 @@ Este proyecto corresponde al Trabajo de Fin de Máster (TFM) y tiene como objeti
 El proyecto se estructura en dos archivos Jupyter Notebook (.ipynb). La estructura del Proyecto es la siguiente:
 
 ├── modelo_final.ipynb
+
 ├── comparadorLLM.ipynb
+
 └── README.md
 
 ## 1. modelo_fina.ipynb
@@ -14,25 +16,25 @@ Este notebook contiene el sistema final desarrollado, integrando todas las fases
 
 ### Análisis y preparación del dataset
 
-- Exploración inicial del conjunto de datos.
-- Análisis de clases y distribución de alimentos.
+-Exploración inicial del conjunto de datos.
+-Análisis de clases y distribución de alimentos.
 
 ### Entrenamiento del modelo de detección
 
--Entrenamiento del modelo de detección de objetos utilizando YOLOv8.
--Evaluación del rendimiento del modelo.
+- Entrenamiento del modelo de detección de objetos utilizando YOLOv8.
+- Evaluación del rendimiento del modelo.
 
 ### Visualización de métricas
 
--Precisión (Precision)
--Recall
--mAP
--Matriz de confusión
+- Precisión (Precision)
+- Recall
+- mAP
+- Matriz de confusión
 
 ### Predicciones sobre imágenes externas
 
--Rendimiento del modelo sobre imágenes no pertenecientes al dataset.
--Visualización de resultados de detección de alimentos.
+- Rendimiento del modelo sobre imágenes no pertenecientes al dataset.
+- Visualización de resultados de detección de alimentos.
 
 ### Integración con modelos de lenguaje (LLM)
 
