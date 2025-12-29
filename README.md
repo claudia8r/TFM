@@ -4,13 +4,13 @@ Este proyecto corresponde al Trabajo de Fin de Máster (TFM) y tiene como objeti
 
 El proyecto se estructura en dos archivos Jupyter Notebook (.ipynb). La estructura del Proyecto es la siguiente:
 
-├── modelo_final.ipynb
+├── README.md
 
 ├── comparadorLLM.ipynb
 
-└── README.md
+└── modelo_final.ipynb
 
-## 1. modelo_fina.ipynb
+## 1. modelo_final.ipynb
 
 Este notebook contiene el sistema final desarrollado, integrando todas las fases del proyecto. En él se pueden encontrar los siguientes apartados:
 
